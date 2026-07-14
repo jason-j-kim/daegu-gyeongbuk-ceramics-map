@@ -108,7 +108,7 @@ export default function Home() {
   const drag = useRef({ x: 0, y: 0, yaw: -4, pitch: 52 });
 
   useEffect(() => {
-    fetch("/data/map-data.json")
+    fetch(`${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/data/map-data.json`)
       .then((r) => r.json())
       .then(setData);
   }, []);

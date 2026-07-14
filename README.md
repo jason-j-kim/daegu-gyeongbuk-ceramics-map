@@ -2,7 +2,9 @@
 
 대구·경북의 도자공방, 미술관, 주요 관광지점 입장객 통계를 한 화면에서 탐색하는 인터랙티브 문화생태 연구지도입니다.
 
-**공개 웹사이트:** https://daegu-gyeongbuk-ceramics-map.joyof15.chatgpt.site
+**GitHub Pages:** https://jason-j-kim.github.io/daegu-gyeongbuk-ceramics-map/
+
+**ChatGPT Sites:** https://daegu-gyeongbuk-ceramics-map.joyof15.chatgpt.site
 
 ## 주요 기능
 
@@ -45,4 +47,3 @@ npm run dev
 - [관광지식정보시스템](https://know.tour.go.kr/stat/visitStatDis/report.do)
 - [South Korea Maps GeoJSON](https://github.com/southkorea/southkorea-maps)
 - [SGIS 행정구역 통계 및 경계](https://www.data.go.kr/data/15129688/fileData.do)
-
